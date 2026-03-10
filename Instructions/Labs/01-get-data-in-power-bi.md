@@ -19,14 +19,6 @@ In this lab, you learn how to:
 
 **This lab should take approximately 30 minutes.**
 
-## Get started with Power BI Desktop
-
-To complete this exercise, first open a web browser and enter the following URL to download the zip folder:
-
-`https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/01-get-data-in-power-bi/01-get-data.zip`
-
-Extract the folder to the **C:\Users\Student\Downloads\01-get-data** folder.
-
 Open the **01-Starter-Sales Analysis.pbix** file.
 
 - This starter file has been specially configured to help you complete the lab. The following report-level settings have been disabled in the starter file:
