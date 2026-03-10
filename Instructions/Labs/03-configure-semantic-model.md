@@ -22,10 +22,6 @@ In this lab, you learn how to:
 
 ## Get started
 
-To complete this exercise, first open a web browser and enter the following URL to download the zip file:
-
-`https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/03-configure-semantic-model/03-model-data.zip`
-
 Extract the file to the **C:\Users\Student\Downloads\03-model-data** folder.
 
 Open the **03-Starter-Sales Analysis.pbix** file.
