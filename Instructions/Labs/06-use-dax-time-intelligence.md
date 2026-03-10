@@ -18,12 +18,6 @@ In this lab, learn how to:
 
 ## Get started
 
-To complete this exercise, first open a web browser and enter the following URL to download the zip file:
-
-`https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/06-use-dax-time-intelligence/06-time-intelligence.zip`
-
-Extract the file to the **C:\Users\Student\Downloads\06-time-intelligence** folder.
-
 Open the **06-Starter-Sales Analysis.pbix** file.
 
 > _**Note**: You may see a sign-in dialog as the file loads. Select **Cancel** to dismiss the sign-in dialog. Close any other informational windows. Select **Apply Later**, if prompted to apply changes._
