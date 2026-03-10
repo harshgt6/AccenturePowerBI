@@ -20,12 +20,6 @@ In this lab, you learn how to:
 
 ## Get started
 
-To complete this exercise, first open a web browser and enter the following URL to download the zip file:
-
-`https://github.com/MicrosoftLearning/PL-300-Microsoft-Power-BI-Data-Analyst/raw/Main/Allfiles/Labs/09-enhance-power-bi-reports/09-enhanced-report.zip`
-
-Extract the file to the **C:\Users\Student\Downloads\09-enhanced-report** folder.
-
 Open the **09-Starter-Sales Analysis.pbix** file.
 
 > _**Note**: You may see a sign-in dialog as the file loads. Select **Cancel** to dismiss the sign-in dialog. Close any other informational windows. Select **Apply Later**, if prompted to apply changes._
