@@ -9,4 +9,5 @@ Lab1: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/01-get
 Lab2: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/02-transform-data-power-bi.md
 
 Day 2:
-https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/03-configure-semantic-model.md
+
+Lab 3: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/03-configure-semantic-model.md
