@@ -11,3 +11,8 @@ Lab2: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/02-tra
 Day 2:
 
 Lab 3: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/03-configure-semantic-model.md
+
+Day 3:
+
+Lab 4: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/04-create-dax-calculations.md
+Lab 6: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/06-use-dax-time-intelligence.md
