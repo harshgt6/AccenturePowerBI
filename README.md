@@ -15,4 +15,5 @@ Lab 3: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/03-co
 Day 3:
 
 Lab 4: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/04-create-dax-calculations.md
+
 Lab 6: https://github.com/harshgt6/KPMGPowerBI/blob/Main/Instructions/Labs/06-use-dax-time-intelligence.md
