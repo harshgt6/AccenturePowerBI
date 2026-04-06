@@ -1,4 +1,4 @@
-Welcome to KPMG Power BI Hands-on Exercices
+Welcome to Power BI Hands-on Exercices
 
 Day 1:
 
