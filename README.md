@@ -12,4 +12,7 @@ Lab2: https://github.com/harshgt6/AccenturePowerBI/blob/Main/Instructions/Labs/0
 Lab3: https://github.com/harshgt6/AccenturePowerBI/blob/Main/Instructions/Labs/03-configure-semantic-model.md
 
 
+Day 3:
+
+https://github.com/harshgt6/AccenturePowerBI/blob/Main/Instructions/Labs/04-create-dax-calculations.md
 
