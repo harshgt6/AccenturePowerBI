@@ -14,5 +14,5 @@ Lab3: https://github.com/harshgt6/AccenturePowerBI/blob/Main/Instructions/Labs/0
 
 Day 3:
 
-https://github.com/harshgt6/AccenturePowerBI/blob/Main/Instructions/Labs/04-create-dax-calculations.md
+Lab 4: https://github.com/harshgt6/AccenturePowerBI/blob/Main/Instructions/Labs/04-create-dax-calculations.md
 
